@@ -62,7 +62,14 @@ Contributions, issues, and feature requests are very welcome! Please submit pull
 
 This project is licensed under the **MIT License** — free for personal and commercial use with attribution.
 
-## 📞 Contact & Support
+## 📬 Contact
+
+**Matin Shahabadi (متین شاه‌آبادی / متین شاه آبادی)**
+
+* Website: [matinshahabadi.ir](https://matinshahabadi.ir)
+* Email: [me@matinshahabadi.ir](mailto:me@matinshahabadi.ir)
+* GitHub: [power0matin](https://github.com/power0matin)
+* LinkedIn: [matin-shahabadi](https://www.linkedin.com/in/matin-shahabadi)
 
 For questions or collaboration, please open an issue on GitHub or contact the maintainer via GitHub profile.
 
