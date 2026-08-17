@@ -1,5 +1,15 @@
 # 💊 Prescription Recognition
 
+<!-- repo-badges:start -->
+<p align="center">
+  <a href="https://hits.sh/github.com/power0matin/Prescription-Recognition-Extended/"><img src="https://hits.sh/github.com/power0matin/Prescription-Recognition-Extended.svg?style=flat-square&amp;label=Views&amp;labelColor=18181B&amp;color=0EA5E9&amp;logo=github" alt="Repository Views"/></a>
+  <a href="https://github.com/power0matin/Prescription-Recognition-Extended/stargazers"><img src="https://img.shields.io/github/stars/power0matin/Prescription-Recognition-Extended?style=flat-square&amp;label=Stars&amp;labelColor=18181B&amp;color=F59E0B&amp;logo=github&amp;logoColor=white" alt="GitHub Stars"/></a>
+  <a href="https://github.com/power0matin/Prescription-Recognition-Extended/forks"><img src="https://img.shields.io/github/forks/power0matin/Prescription-Recognition-Extended?style=flat-square&amp;label=Forks&amp;labelColor=18181B&amp;color=6366F1&amp;logo=github&amp;logoColor=white" alt="GitHub Forks"/></a>
+  <a href="https://github.com/power0matin/Prescription-Recognition-Extended/issues"><img src="https://img.shields.io/github/issues/power0matin/Prescription-Recognition-Extended?style=flat-square&amp;label=Issues&amp;labelColor=18181B&amp;color=22C55E&amp;logo=github&amp;logoColor=white" alt="GitHub Issues"/></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/power0matin/Prescription-Recognition-Extended?style=flat-square&amp;label=License&amp;labelColor=18181B&amp;color=EF4444&amp;logo=github&amp;logoColor=white" alt="GitHub License"/></a>
+</p>
+<!-- repo-badges:end -->
+
 Extract text from handwritten prescription images using Python and deep learning.
 Designed for researchers, developers, and medical professionals to automate and improve prescription digitization with high accuracy.
 
